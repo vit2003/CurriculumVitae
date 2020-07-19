@@ -1,0 +1,16 @@
+login = LoginServlet
+invalidLogin = invalid.html
+searchPage = search.jsp
+shoppingPage = shopping.jsp
+loginPage = login.html
+logOut = LogOutServlet
+search= SearchServlet
+delete = DeleteAccountServlet
+update = UpdateServlet
+shoppingPageServlet = LoadProductServlet
+addToCart = AddToCartServlet
+viewmycart = viewcart.jsp
+deletecart = DeleteCartServlet
+checkout = CheckOutServlet
+newaccount = CreateNewAccountServlet
+createaccountpage = createaccount.jsp
