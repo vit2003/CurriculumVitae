@@ -1,0 +1,9 @@
+one; mot; one boy; 1 nguoi con trai
+Car; xe hoi; I have a car; toi co 1 chiec xe hoi
+two; hai; two apple; hai trai tao
+baby; em be; baby in car; em be trong xe hoi
+fish; con ca; I going to fishing; toi tinh di cau ca
+You; ban; you're my friend; ban la ban cua toi
+available; co san; this object is available; doi tuong nay da co san
+I; toi; I'm a single; toi la mot ca si
+Visit; tham; visit home; tham nha
