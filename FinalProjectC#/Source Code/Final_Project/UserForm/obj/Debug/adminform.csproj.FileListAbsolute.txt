@@ -1,0 +1,9 @@
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.exe.config
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.exe
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.FrmAdmin.resources
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.Properties.Resources.resources
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\adminform.csproj.GenerateResource.cache
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.exe
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\adminform.csprojAssemblyReference.cache

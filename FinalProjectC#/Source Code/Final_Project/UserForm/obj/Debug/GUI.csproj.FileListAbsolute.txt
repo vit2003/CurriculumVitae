@@ -1,0 +1,42 @@
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.exe.config
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.exe
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\UserForm.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\BussinessObject.dll
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\bin\Debug\BussinessObject.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.FrmAdmin.resources
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.LoginForm.resources
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.Properties.Resources.resources
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\GUI.csproj.CopyComplete
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.exe
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\UserForm\obj\Debug\UserForm.UserForm.resources
+C:\Users\Asus\Desktop\Final_Project\UserForm\bin\Debug\UserForm.exe.config
+C:\Users\Asus\Desktop\Final_Project\UserForm\bin\Debug\UserForm.exe
+C:\Users\Asus\Desktop\Final_Project\UserForm\bin\Debug\UserForm.pdb
+C:\Users\Asus\Desktop\Final_Project\UserForm\bin\Debug\BussinessObject.dll
+C:\Users\Asus\Desktop\Final_Project\UserForm\bin\Debug\BussinessObject.pdb
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.FrmAdmin.resources
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.LoginForm.resources
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.Properties.Resources.resources
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.UserForm.resources
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.exe
+C:\Users\Asus\Desktop\Final_Project\UserForm\obj\Debug\UserForm.pdb
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\bin\Debug\UserForm.exe.config
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\bin\Debug\UserForm.exe
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\bin\Debug\UserForm.pdb
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\bin\Debug\BussinessObject.dll
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\bin\Debug\BussinessObject.pdb
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.FrmAdmin.resources
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.LoginForm.resources
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.Properties.Resources.resources
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.UserForm.resources
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\GUI.csproj.CopyComplete
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.exe
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\UserForm\obj\Debug\UserForm.pdb

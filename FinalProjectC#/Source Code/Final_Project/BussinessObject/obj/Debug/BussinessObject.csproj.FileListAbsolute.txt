@@ -1,0 +1,15 @@
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\BussinessObject\bin\Debug\BussinessObject.dll
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\BussinessObject\bin\Debug\BussinessObject.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\BussinessObject\obj\Debug\BussinessObject.dll
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\BussinessObject\obj\Debug\BussinessObject.pdb
+E:\FPTU\Slideky5\PRN292\Project\Final_Project\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Final_Project\BussinessObject\bin\Debug\BussinessObject.dll
+C:\Users\Asus\Desktop\Final_Project\BussinessObject\bin\Debug\BussinessObject.pdb
+C:\Users\Asus\Desktop\Final_Project\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Final_Project\BussinessObject\obj\Debug\BussinessObject.dll
+C:\Users\Asus\Desktop\Final_Project\BussinessObject\obj\Debug\BussinessObject.pdb
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\BussinessObject\bin\Debug\BussinessObject.dll
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\BussinessObject\bin\Debug\BussinessObject.pdb
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\BussinessObject\obj\Debug\BussinessObject.dll
+D:\Document for learn\CN5\PRN292_C#-.NET\FinalProject\Source Code\Final_Project\BussinessObject\obj\Debug\BussinessObject.pdb
